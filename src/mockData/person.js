@@ -10,12 +10,12 @@ export const CONTACT_INFORMATION = [
     content: 'benjaminhinora@gmail.com',
     icon: '/assets/images/contact-info-icons/contact-email.svg',
   },
-  // {
-  //   id: 3,
-  //   title: 'Phone Number',
-  //   content: '+1 330-871-7171',
-  //   icon: '/assets/images/contact-info-icons/contact-phone-call.svg',
-  // },
+  {
+    id: 3,
+    title: 'Phone Number',
+    content: '(705) 990-2520',
+    icon: '/assets/images/contact-info-icons/contact-phone-call.svg',
+  },
   {
     id: 2,
     title: 'Address',
