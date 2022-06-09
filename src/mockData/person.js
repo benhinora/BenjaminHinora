@@ -16,10 +16,10 @@ export const CONTACT_INFORMATION = [
     content: '(705) 990-2520',
     icon: '/assets/images/contact-info-icons/contact-phone-call.svg',
   },
-  {
-    id: 2,
-    title: 'Address',
-    content: '39 Belanger Ave, Timmins, ON P4N 2V2, Canada',
-    icon: '/assets/images/contact-info-icons/contact-pin.svg',
-  },
+  // {
+  //   id: 2,
+  //   title: 'Address',
+  //   content: '39 Belanger Ave, Timmins, ON P4N 2V2, Canada',
+  //   icon: '/assets/images/contact-info-icons/contact-pin.svg',
+  // },
 ];
