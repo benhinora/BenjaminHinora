@@ -4,7 +4,7 @@ export const ABOUT_ME_SECTION = {
   id: 1,
   title: `${PERSON.position}`,
   description:
-    `I am a Senior Software Engineer with great experience in web & mobile development. I have been working as a developer since 2012 and developed many web & mobile projects for large & startup companies using React, Angular, Vue.js, Node.js, Python and Ruby on Rails.`,
+    `I am a Senior Software Engineer with great experience in web & mobile development. I have been working as a developer since 2012 and developed many web & mobile projects for large & startup companies.`,
 };
 
 export const PORTFOLIO_SECTION = {
