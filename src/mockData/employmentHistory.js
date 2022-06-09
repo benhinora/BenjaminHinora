@@ -3,7 +3,7 @@ export const EMPLOYMENT_HISTORY = [
     id: 1,
     company: 'Roboyo',
     position: 'Senior Frontend Developer',
-    period: 'June 2019 - April 2021 (1 year 11 months)',
+    period: 'June 2019 - May 2022 (3 years)',
     description:
       'Worked as a senior front-end developer. Built out websites and web apps using JS frameworks and libraries.',
     responsibilities: [
