@@ -16,7 +16,7 @@ export const SOCIAL_NETWORKS = [
   },
   {
     id: 4,
-    link: 'https://github.com/benzhinora',
+    link: 'https://github.com/benhinora',
     icon: 'fa fa-github',
   },
   // {
